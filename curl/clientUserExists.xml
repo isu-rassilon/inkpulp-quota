@@ -1,1 +1,0 @@
-<?xml version="1.0"?><methodCall><methodName>client.userExists</methodName><params><param><value>USERNAME</value></param></params></methodCall>
