@@ -1,0 +1,1 @@
+<?xml version="1.0"?><methodCall><methodName>client.getUserBalance</methodName><params><param><value>USERNAME</value></param><param><value>HOSTNAME</value></param><param><value>HOSTIPADDR</value></param><param><value>USERNAME</value></param></params></methodCall>

@@ -1,0 +1,26 @@
+---
+# InkPulp-Quota Configuration
+
+# server_address
+#   PaperCut server hostname & port
+#
+#   Example:
+#     server_address: 'papercut.site.tld:9191'
+server_address: 'papercut.iastate.edu:9191'
+
+# sleep_delay
+#   Minimum delay between quota queries
+#
+#   Example:
+#     sleep_delay: 0.5
+sleep_delay: 0.5
+
+# admin_group
+#   Numeric group id for admins
+#   (Admins can query other users.)
+#
+#   Example:
+#     admin_group: 0
+admin_group: 155059
+
+# EOF

@@ -1,0 +1,1 @@
+curl -H "User-Agent: Java/1.6.0_11" -H "Content-Type: text/xml" --data @clientGetUserBalance.xml http://10.10.238.33:9191/rpc/clients/xmlrpc
